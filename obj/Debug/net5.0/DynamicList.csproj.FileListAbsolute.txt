@@ -1,0 +1,16 @@
+C:\Users\larry\source\repos\DynamicList\DynamicList\bin\Debug\net5.0\DynamicList.exe
+C:\Users\larry\source\repos\DynamicList\DynamicList\bin\Debug\net5.0\DynamicList.deps.json
+C:\Users\larry\source\repos\DynamicList\DynamicList\bin\Debug\net5.0\DynamicList.runtimeconfig.json
+C:\Users\larry\source\repos\DynamicList\DynamicList\bin\Debug\net5.0\DynamicList.runtimeconfig.dev.json
+C:\Users\larry\source\repos\DynamicList\DynamicList\bin\Debug\net5.0\DynamicList.dll
+C:\Users\larry\source\repos\DynamicList\DynamicList\bin\Debug\net5.0\ref\DynamicList.dll
+C:\Users\larry\source\repos\DynamicList\DynamicList\bin\Debug\net5.0\DynamicList.pdb
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.csproj.AssemblyReference.cache
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.AssemblyInfoInputs.cache
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.AssemblyInfo.cs
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.csproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.dll
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\ref\DynamicList.dll
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.pdb
+C:\Users\larry\source\repos\DynamicList\DynamicList\obj\Debug\net5.0\DynamicList.genruntimeconfig.cache
